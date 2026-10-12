@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+plotly
+duckdb
+langgraph
+langchain
+langchain-community
+langchain-core
+reportlab
+pytest
